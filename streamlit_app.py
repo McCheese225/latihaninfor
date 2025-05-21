@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Selamat datang di web informatika cag ayyubi XH" )
+st.title("my epic gaming wen" )
 st.write(
-    "ngoding seru bersama akuuu"
+    "10/10 web –IGN"
 )
 st.image("aziknpzd2w971.png", width= 1000)
